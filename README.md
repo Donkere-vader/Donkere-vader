@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hallo!
+Hi there, I'm Cas.  
+I have been programming since 2017.  
 
-<!--
-**Donkere-vader/Donkere-vader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bio
+👨 Cas  
+👨‍💻 Cassis || Donkere-vader  
+📅 2004  
+📍 Netherlands  
 
-Here are some ideas to get you started:
+### languages
+1. Dutch
+2. English
+3. Python
+4. HTML
+6. CSS
+7. Javascript
+8. Little bit of SQLite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact 📭
+📧 [Ctweeduizendvier@yahoo.com](mailto:Ctweeduizendvier@yahoo.com)
