@@ -12,10 +12,12 @@ I have been programming since 2017.
 1. Dutch
 2. English
 3. Python
-4. HTML
-6. CSS
-7. Javascript
-8. Little bit of SQLite
+4. Rust
+5. Java
+6. HTML
+7. CSS
+8. Javascript
+9. Little bit of SQLite
 
 ### Contact 📭
 📧 [donkere.v@gmail.com](mailto:donkere.v@gmail.com)
