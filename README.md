@@ -6,7 +6,14 @@ I have been programming since 2017.
 👨 Cas  
 👨‍💻 Cassis || Donkere-vader  
 📅 2004  
-📍 Netherlands  
+📍  Netherlands  
+♂️ he/him
+
+## Stats
+![Profiel stats](https://github-readme-stats.vercel.app/api?username=donkere-vader&count_private=true&show_icons=true&theme=onedark)
+
+
+![Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=donkere-vader&theme=onedark)
 
 ## languages
 1. Dutch
